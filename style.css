@@ -4,8 +4,28 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+img {
+    text-align: center;
+    width: 500px;
+    height: auto;
+}
+
 h1 {
     text-align: center;
     padding: 20px;
     margin: 0px;
+}
+
+.green-flag {
+    background-color: green;
+    padding: 30px;
+}
+
+.white-flag {
+    background-color: white;
+}
+
+.red-flag {
+    background-color: red;
+    padding: 30px;
 }
