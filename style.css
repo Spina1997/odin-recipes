@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
